@@ -1,6 +1,6 @@
 # Three-Body Orbital Simulation (CR3BP)
 
-## Code
+## Code (Must Use Orbit Files EM_L2... and EM_L4...)
 - [L2 Lyapunov](Project1_L2.m)
 - [L4 Lyapunov](Project1_L4.m)
 - [L2](L2SS.m)
