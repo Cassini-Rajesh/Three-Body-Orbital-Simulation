@@ -1,10 +1,10 @@
 # Three-Body Orbital Simulation (CR3BP)
 
 ## Code
-[L2 Lyapunov](Project1_L2.m)
-[L4 Lyapunov](Project1_L4.m)
-[L2](L2SS.m)
-[L4](L4SS.m)
+- [L2 Lyapunov](Project1_L2.m)
+- [L4 Lyapunov](Project1_L4.m)
+- [L2](L2SS.m)
+- [L4](L4SS.m)
 
 ## Overview
 Simulated spacecraft trajectories in the Earth-Moon system using 
